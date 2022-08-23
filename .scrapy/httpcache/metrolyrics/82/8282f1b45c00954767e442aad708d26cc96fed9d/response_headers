@@ -1,0 +1,11 @@
+Server: Apache
+X-Frame-Options: SAMEORIGIN
+Content-Security-Policy: upgrade-insecure-requests
+Cache-Control: max-age=95756
+X-Mod-Pagespeed: 1.13.35.2-0
+Content-Encoding: gzip
+Content-Type: text/html
+Accept-Ranges: bytes
+X-Varnish: 1123160025 1120288672
+Date: Wed, 01 Apr 2020 17:41:23 GMT
+Vary: X-Theme=desktop, X-Usonly=yes

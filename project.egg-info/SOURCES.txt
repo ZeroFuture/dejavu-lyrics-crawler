@@ -1,0 +1,16 @@
+setup.py
+lyricsCrawler/__init__.py
+lyricsCrawler/items.py
+lyricsCrawler/middlewares.py
+lyricsCrawler/pipelines.py
+lyricsCrawler/settings.py
+lyricsCrawler/youtube_search.py
+lyricsCrawler/spiders/__init__.py
+lyricsCrawler/spiders/azlyrics.py
+lyricsCrawler/spiders/metrolyrics.py
+project.egg-info/PKG-INFO
+project.egg-info/SOURCES.txt
+project.egg-info/dependency_links.txt
+project.egg-info/entry_points.txt
+project.egg-info/requires.txt
+project.egg-info/top_level.txt
